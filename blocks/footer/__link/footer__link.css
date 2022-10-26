@@ -4,11 +4,11 @@
   line-height: 1.12;
   color: #fff;
   text-decoration: none;
-  margin-left: 18px;
+  margin-left: 19px;
+  transition: 0.8s;
 }
 
 .footer__link:hover {
-  transition: 0.8s;
   opacity: 0.8;
 }
 
